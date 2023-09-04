@@ -190,7 +190,7 @@ function doWhile(num) {
    do { valor+=5;
       iteraciones++;
    } while (iteraciones < 8);
-   
+
     return("valor final es: "+valor); 
 }
 
